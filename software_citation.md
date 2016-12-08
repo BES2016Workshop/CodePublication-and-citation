@@ -13,3 +13,5 @@ Here, we present the 6 principles of software citation taken from [\[Smith, Katz
 5. **Accessibility**: Software citations should facilitate access to the software itself and to its associated metadata, documentation, data, and other materials necessary for both humans and machines to make informed use of the referenced software.
 
 6. **Specificity**: Software citations should facilitate identification of, and access to, the specific version of software that was used. Software identification should be as specific as necessary, such as using version numbers, revision numbers, or variants such as platforms.
+
+# Implementing these principles
