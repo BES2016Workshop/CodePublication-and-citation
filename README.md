@@ -4,5 +4,7 @@ Software is a vital part of modern research and yet there is currently little su
 In this workshop, we will introduce the recently published **Software Citation Principles** as developed by a [Force 11](https://www.force11.org/) working group.
 We will also introduce [Zenodo](https://zenodo.org/), a service developed by [CERN](https://home.cern/), that allows us to publish research objects such as scripts, data and software packages in a way that satisfies the software citation principles.
 
-* [Software Citation Principles](software_citation.md)
+* [The Software Citation Principles](software_citation.md)
+* [Where to publish our software](where_to_publish.md)
+* [Creating a Zenodo account](zenodo.md)
 * [References](references.md)
