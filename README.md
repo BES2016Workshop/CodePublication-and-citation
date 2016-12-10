@@ -32,4 +32,6 @@ In order to make your software more discoverable and easier to use, you may choo
 
 ![](http://imgs.xkcd.com/comics/will_it_work.png)
 
+## References
+
 * [References](references.md)
