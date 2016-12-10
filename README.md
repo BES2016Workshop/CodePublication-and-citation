@@ -11,7 +11,7 @@ We will also introduce [Zenodo](https://zenodo.org/), a service developed by [CE
 * [What software should we publish?](what_to_publish.md)
 * [Where can we publish our software?](where_to_publish.md)
 * [Creating a Zenodo account](zenodo.md)
-* [Publishing a GitHub repository to Zenodo](TODO)
+* [Publishing a GitHub repository to Zenodo](publishing_on_zenodo.md)
 
 ## Citing code
 
