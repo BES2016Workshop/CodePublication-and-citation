@@ -22,9 +22,14 @@ Just as it is important to publish our own research software, it is also importa
 
 ## Things we haven't told you
 
-* Institutional repos such as Orda - https://www.sheffield.ac.uk/library/rdm/orda
-* Depsy
-* Software Heritage https://www.softwareheritage.org/
-* CRAN, PyPy - https://xkcd.com/1742/
+The world of Research Software Engineering is moving very quickly. Here are links to resources you may be interested in.
+
+* Your university library may have a Research Data Management repository that can be used to publish software in the same way that Zenodo can. For example, The University of Sheffield has recently (late 2016) released ORDA - a system based on Figshare: https://www.sheffield.ac.uk/library/rdm/orda
+* [Depsy](http://depsy.org/) attempts to gather metrics on software published in major repositories such as [CRAN](https://cran.r-project.org/) and [PyPi](https://pypi.python.org/pypi).
+* [Software Heritage](https://www.softwareheritage.org/) is attempting to build an archive of archives!
+
+In order to make your software more discoverable and easier to use, you may choose to invest more time in producing fully-fledged package in a repository such as CRAN. How to do this is outside the scope of this tutorial
+
+![](http://imgs.xkcd.com/comics/will_it_work.png)
 
 * [References](references.md)
