@@ -48,3 +48,5 @@ A BibTeX entry for LaTeX users is
   ```
 
 If you use R packages in your research, we encourage you to use these citation guidelines.
+
+Click [here](README.md) to go back to the front page.

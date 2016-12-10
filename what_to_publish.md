@@ -7,3 +7,5 @@ A trivial mistake in a simple Excel spreadsheet helped change the world (see htt
 The software citation guidelines stop short of recommending exactly what should be published. They leave such choices to the researcher.
 
 We recommend that you should publish any software that produces results on which your conclusions are founded. If your software is "only" an Excel spreadsheet that contains 20 data points along with a calculation of the mean -- publish it anyway. At least it can be checked that you really did include all of the data points (unlike Reinhart and Rogoff!).
+
+Click [here](README.md) to go back to the front page.

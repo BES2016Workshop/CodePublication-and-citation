@@ -39,3 +39,5 @@ Scroll down to the bottom of the screen and click **Commit new file**.
 Your repo will now look something like the one below. It is unlikely to win any scientific awards but it will serve our purposes here.
 
 ![](assets/github/github_repo8.png)
+
+Click [here](README.md) to go back to the front page.

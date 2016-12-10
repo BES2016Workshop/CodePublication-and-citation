@@ -18,4 +18,6 @@ Software and data deposited with Zenodo is provided with a globally unique [Digi
 
 Combined, these features help ensure that all the software citation principles can be met for many use cases.
 
-An example of a Zenodo deposit can be found by clicking on [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.61435.svg)](https://doi.org/10.5281/zenodo.61435) which contains materials from a 'Version control in R and RStudio' workshop given in mid-2016. 
+An example of a Zenodo deposit can be found by clicking on [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.61435.svg)](https://doi.org/10.5281/zenodo.61435) which contains materials from a 'Version control in R and RStudio' workshop given in mid-2016.
+
+Click [here](README.md) to go back to the front page.

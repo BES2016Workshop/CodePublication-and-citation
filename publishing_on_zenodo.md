@@ -63,3 +63,5 @@ As such, every version of our software will be individually citable.
 Go back to Zenodo to see your own publication.
 
 ![](assets/zenodo/zenodo_publication.png)
+
+Click [here](README.md) to go back to the front page.

@@ -9,3 +9,5 @@ Put a plaintext file named CITATION in the root directory of your code, and put 
 His [original article](http://blog.rtwilson.com/encouraging-citation-of-software-introducing-citation-files/) was subsequently [republished on the blog of the Software Sustainability Institute](https://www.software.ac.uk/blog/2016-10-06-encouraging-citation-software-introducing-citation-files) and cited in the Software Citation Principles paper.
 
 We suggest you use CITATION files in your own work. Perhaps you'll use it to suggest that people cite the DOI created for your software by Zenodo?
+
+Click [here](README.md) to go back to the front page.
