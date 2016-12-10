@@ -31,6 +31,7 @@ The world of Research Software Engineering is moving very quickly. Here are link
 In order to make your software more discoverable and easier to use, you may choose to invest more time in producing fully-fledged package in a repository such as CRAN. How to do this is outside the scope of this tutorial
 
 ![](http://imgs.xkcd.com/comics/will_it_work.png)
+Comic from XKCD - https://xkcd.com/1742/
 
 ## References
 
