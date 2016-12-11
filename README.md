@@ -17,7 +17,7 @@ We will also introduce [Zenodo](https://zenodo.org/), a service developed by [CE
 
 Just as it is important to publish our own research software, it is also important for us to cite the software of others who we rely on for our research. The [software citation principals paper](https://peerj.com/articles/cs-86/) contains a detailed discussion of this issue but for the purposes of this workshop, we would like to draw your attention to the following.
 
-* [R's citation function](R_citation.md)
+* [R's citation function](r_citation.md)
 * [CITATION Files](CITATION.md)
 
 ## Things we haven't told you
