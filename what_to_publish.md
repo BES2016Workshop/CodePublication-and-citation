@@ -2,7 +2,10 @@
 
 There is a tendency among many researchers to believe that it's not worth publishing certain software artifacts because they seem relatively trivial. Phrases such as **"It's just a few lines of R"** or **"It's only an Excel spreadsheet with a couple of formulae"** are commonly given as excuses not to publish.
 
-A trivial mistake in a simple Excel spreadsheet helped change the world (see https://www.bloomberg.com/news/articles/2013-04-18/faq-reinhart-rogoff-and-the-excel-error-that-changed-history). Publishing that simple spreadsheet along with the paper would have helped prevent many problems.
+A trivial mistake in a simple Excel spreadsheet helped change the world (see https://www.bloomberg.com/news/articles/2013-04-18/faq-reinhart-rogoff-and-the-excel-error-that-changed-history).
+Publishing that simple spreadsheet along with the paper would have helped prevent many problems.
+
+<img src="assets/images/ExcelError.png" width="300">
 
 The software citation guidelines stop short of recommending exactly what should be published. They leave such choices to the researcher.
 
